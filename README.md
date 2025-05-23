@@ -1,4 +1,4 @@
-# 🧠 Email Assistant
+#  Email Assistant
 
 **Email Assistant** is a multi-part AI-powered tool that helps users draft professional and personalized emails effortlessly.  
 It integrates OpenAI via Spring AI to generate context-aware email content. The system includes:
@@ -9,17 +9,17 @@ It integrates OpenAI via Spring AI to generate context-aware email content. The 
 
 ---
 
-## ✨ Features
+##  Features
 
-- ✅ Generate email content using natural language
-- 🔄 Real-time response from OpenAI (via Spring AI)
-- 🌐 Chrome extension for on-the-go email writing
-- 💡 Clean and user-friendly frontend interface
-- 📡 RESTful API between frontend and backend
+-  Generate email content using natural language
+-  Real-time response from OpenAI (via Spring AI)
+-  Chrome extension for on-the-go email writing
+-  Clean and user-friendly frontend interface
+-  RESTful API between frontend and backend
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - **Backend**: Java, Spring Boot, Spring AI, OpenAI API
 - **Frontend**: React.js, HTML, CSS, JavaScript
