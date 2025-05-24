@@ -1,7 +1,5 @@
 # Email Assistant
 
-## Demo
-
 [Link: ](https://drive.google.com/file/d/1bXLzYqQtm8cKAnEx4kqLHwyk8OcvZD1a/view?usp=sharing)
 
 **Email Assistant** is a multi-part AI-powered tool that helps users draft professional and personalized emails effortlessly.  
