@@ -1,5 +1,9 @@
 # Email Assistant
 
+## Demo
+
+[Link: ](https://drive.google.com/file/d/1bXLzYqQtm8cKAnEx4kqLHwyk8OcvZD1a/view?usp=sharing)
+
 **Email Assistant** is a multi-part AI-powered tool that helps users draft professional and personalized emails effortlessly.  
 It integrates OpenAI via Spring AI to generate context-aware email content. The system includes:
 
@@ -28,6 +32,4 @@ It integrates OpenAI via Spring AI to generate context-aware email content. The 
 
 ---
 
-## Demo
 
-👉 [Click here to view the demo](https://drive.google.com/file/d/1bXLzYqQtm8cKAnEx4kqLHwyk8OcvZD1a/view?usp=sharing)
